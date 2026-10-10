@@ -1,4 +1,3 @@
-package mx.edu.uttt.tda.vectores;
 
 import javax.swing.*;
 
